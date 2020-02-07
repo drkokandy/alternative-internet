@@ -1,0 +1,43 @@
+{
+    "description": "[Tox](https://github.com/irungentoo/ProjectTox-Core#why-are-you-doing-this-there-are-already-a-bunch-of-free-skype-alternatives)  The goal of this project is to create a configuration free p2p skype replacement.", 
+    "name": "Tox", 
+    "ohloh": {
+        "main_language": "C", 
+        "max_month": "2015-01-01T00:00:00Z", 
+        "description": "Free and secure distributed Skype replacement.", 
+        "total_contributor_count": 193, 
+        "total_code_lines": 28354, 
+        "tags": [
+            "communication", 
+            "voicechat", 
+            "voip", 
+            "surveillance", 
+            "distributed", 
+            "audio", 
+            "chat", 
+            "cryptography", 
+            "privacy", 
+            "video", 
+            "messenger", 
+            "security", 
+            "dht", 
+            "videochat", 
+            "instant_messaging", 
+            "talk", 
+            "skype"
+        ], 
+        "twelve_month_contributor_count": 53, 
+        "updated_at": "2015-03-28T10:15:47Z", 
+        "analysis": "19881652", 
+        "min_month": "2013-06-01T00:00:00Z", 
+        "factoids": [
+            "Very large, active development team", 
+            "Well-commented source code", 
+            "Young, but established codebase"
+        ], 
+        "twelve_month_commit_count": 1252, 
+        "total_commit_count": 3079, 
+        "id": "643458", 
+        "name": "Project Tox"
+    }
+}
